@@ -1,0 +1,4 @@
+arquivos adicionados.
+git init
+git status
+git add -a -m (menos a envia todos os arquivos e o menos m e para adicionar msg)
