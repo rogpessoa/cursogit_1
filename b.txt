@@ -1,1 +1,3 @@
 enviando arquivo para o clone
+nova funcao b
+comando fetch
