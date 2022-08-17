@@ -3,3 +3,4 @@ git init
 git status
 git add -a -m (menos a envia todos os arquivos e o menos m e para adicionar msg)
 para unir os branches é necessario utilizar o comando merge
+usando o comando fetch para pesquisar alteraçao
