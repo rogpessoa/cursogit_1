@@ -1,1 +1,4 @@
 enviando alteraçao para ao clone
+conhecendo a funcionalidade
+fetch
+criando novo branch
